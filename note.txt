@@ -1,0 +1,13 @@
+font-family: sans-serif;
+font size: 16px;
+font-weight: 400px;
+
+color: 
+	sky blue - #008AFF
+	navy blue - #0F2656
+	pinky red - #F15767
+	white gray - #EEF0F3
+
+	r - #FDEBED
+	g - #EBF9F4
+	y - #FFF7E8
